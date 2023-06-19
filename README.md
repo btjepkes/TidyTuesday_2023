@@ -1,7 +1,4 @@
-Let's get started...
-
-This is a test edit to the readme file.
-
+# TidyTuesday 2023 - README Documentation
 
 | First Header  | Second Header |
 | ------------- | ------------- |
